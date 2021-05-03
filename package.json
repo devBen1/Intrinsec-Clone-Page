@@ -1,0 +1,39 @@
+{
+  "name": "intrinsec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Intrinsec",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/strings": "^1.12.0",
+    "body-parser": "^1.19.0",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "cookie-session": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-mysql-session": "^2.1.5",
+    "express-session": "^1.17.1",
+    "express-useragent": "^1.0.15",
+    "express-validator": "^5.3.1",
+    "hbs": "^4.1.1",
+    "morgan": "^1.7.0",
+    "mysql2": "^2.2.5",
+    "nodemailer": "^4.1.0",
+    "sequelize": "^6.4.0",
+    "timeago.js": "^4.0.2",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "faker": "^5.4.0",
+    "nodemon": "^2.0.7",
+    "sequelize-cli": "^6.2.0"
+  }
+}
