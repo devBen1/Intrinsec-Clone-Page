@@ -7,7 +7,7 @@ Users have to be aware of cyber attacks and watchout for stuff they download, li
 
 To use this app:
 1. Make sure to have NodeJs and npm installed
-2. run npm i or npm install to install all the dependencies
+2. In the application folder run npm i or npm install to install all the dependencies
 3. Create a dotenv file and configure your database and mail smtp server details, also create a mysql database and give it a name then run database migrate with npx sequelize-cli db:migrate.
 4. start the application with nodemon or by configuring the app.js file by adding "start": "node app.js" before the test key and run npm start in the terminal or you can start the application by typing node app.js in the terminal
 5. Visit localhost:3000/ on the terminal to visit the application.
