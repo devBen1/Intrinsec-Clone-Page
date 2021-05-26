@@ -10,7 +10,7 @@ To use this app:
 2. In the application folder run npm i or npm install to install all the dependencies
 3. Create a dotenv file and configure your database and mail smtp server details, also create a mysql database and give it a name then run database migrate with npx sequelize-cli db:migrate.
 4. Start the application with nodemon or by configuring the app.js file by adding "start": "node app.js" before the test key and run npm start in the terminal or you can start the application by typing node app.js in the terminal
-5. Visit localhost:3000/ on the terminal to visit the application.
+5. Type localhost:3000/ on your browser to visit the application.
 
 
 Reference on phishing can be found on this link https://www.imperva.com/learn/application-security/phishing-attack-scam/ and in other external sources.
