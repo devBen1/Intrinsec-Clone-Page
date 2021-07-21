@@ -15,3 +15,6 @@ To use this app:
 
 Reference on phishing can be found on this link https://www.imperva.com/learn/application-security/phishing-attack-scam/ and in other external sources.
 Reference on keylogger which is a attack mechanism can be found here https://www.malwarebytes.com/keylogger/ and in other external sources too although keystrokes are not logged in this application.
+
+# NOTE:
+This is for demonstration purposes only.
